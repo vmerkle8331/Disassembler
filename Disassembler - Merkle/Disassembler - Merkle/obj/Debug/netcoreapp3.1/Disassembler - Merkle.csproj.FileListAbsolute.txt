@@ -1,0 +1,14 @@
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\bin\Debug\netcoreapp3.1\Disassembler - Merkle.exe
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\bin\Debug\netcoreapp3.1\Disassembler - Merkle.deps.json
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\bin\Debug\netcoreapp3.1\Disassembler - Merkle.runtimeconfig.json
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\bin\Debug\netcoreapp3.1\Disassembler - Merkle.runtimeconfig.dev.json
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\bin\Debug\netcoreapp3.1\Disassembler - Merkle.dll
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\bin\Debug\netcoreapp3.1\Disassembler - Merkle.pdb
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.csproj.AssemblyReference.cache
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.AssemblyInfoInputs.cache
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.AssemblyInfo.cs
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.csproj.CoreCompileInputs.cache
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.dll
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.pdb
+C:\Users\vickm\source\repos\Disassembler - Merkle\Disassembler - Merkle\obj\Debug\netcoreapp3.1\Disassembler - Merkle.genruntimeconfig.cache
